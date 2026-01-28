@@ -1,6 +1,6 @@
 Witaj @USER@
 
-Ktoś próbował zalogować się na Twoje konto. Jeśli to Ty, użyj poniższego kodu, aby potwierdzić logowanie.
+Ktoś próbuje zalogować się na Twoje konto. Jeśli to Ty, użyj poniższego kodu, aby potwierdzić logowanie.
 
 @CODE@
 
